@@ -30,3 +30,5 @@ Mne kazhdaya dvornyazhka
 Pri vstreche srazu
 Lapu podaet.<br><br>
 
+![з6](https://github.com/user-attachments/assets/cec87cd4-7f75-40d4-9e69-1a37539bfb91)
+![з5](https://github.com/user-attachments/assets/494bd3fa-21fd-4932-96d5-d3e33bc3f203)
