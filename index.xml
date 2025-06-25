@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>cheburashka3</repo>
-  <version>v1.0.8</version>
+  <version>v1.0.9</version>
   <next number="1" owner="Fistachka" repo="cheburashka2"/>
   <readme>
     <ru>db3723fd8cdc98fb17e011b0269697f95b85aa17b5084004a28fd20f93ad8e8f</ru>
@@ -144,8 +144,8 @@
       <note number="3" values="188" ticks="164" durationTicks="44" ppq="96" velocity="0.843"/>
       <note number="4" values="58" ticks="240" durationTicks="25" ppq="96" velocity="0.906"/>
       <note number="5" values="78" ticks="269" durationTicks="46" ppq="96" velocity="0.906"/>
-      <note number="6" values="68" ticks="314" durationTicks="42" ppq="96" velocity="0.906"/>
-      <note number="7" values="68" ticks="360" durationTicks="103" ppq="96" velocity="0.906"/>
+      <note number="6" values="68" ticks="305" durationTicks="42" ppq="96" velocity="0.906"/>
+      <note number="7" values="68" ticks="349" durationTicks="67" ppq="96" velocity="0.906"/>
     </notes>
   </exercise>
   <exercise number="10">
